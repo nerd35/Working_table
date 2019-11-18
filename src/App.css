@@ -1,0 +1,26 @@
+.bg-success{
+  color: white;
+  background-color: #CAE00F !important;
+  border-radius: 25px !important;
+  border: 1px #CAE00F solid !important;
+
+}
+
+.bg-warning{
+  color: white;
+  background-color: #FFBF00 !important;
+  border-radius: 25px !important;
+  border: 1px #FFBF00 solid !important;
+
+}
+
+.bg-danger{
+  color: white;
+  background-color: #F70C1A !important;
+  border-radius: 25px !important;
+  border: 1px #F70C1A solid !important;
+
+}
+.btn-sm{
+  border-radius: 23px !important;
+}
